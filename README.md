@@ -33,7 +33,7 @@ Custom Themes • Plugins • APIs • Performance & Security
 ---
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mina-samy&show_icons=true&theme=dark" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-samy&layout=compact&theme=dark" width="48%"/> </div>
 ```
-php
+
 <?php
 class MinaSamy {
     public $role = "WordPress & PHP Developer";
