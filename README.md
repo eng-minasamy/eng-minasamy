@@ -18,9 +18,9 @@ Custom Themes • Plugins • APIs • Performance & Security
 ---
 <div align="center" >
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-</div>
-<a href="https://buymeacoffee.com/minasamy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<a href="https://buymeacoffee.com/minasamy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
 ## 🚀 Tools & Technologies I Use
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
